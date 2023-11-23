@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-PokerTime-0.1";
 const contentToCache = [
     "Build/Build v0.1.loader.js",
-    "Build/Build v0.1.framework.js.gz",
-    "Build/Build v0.1.data.gz",
-    "Build/Build v0.1.wasm.gz",
+    "Build/Build v0.1.framework.js",
+    "Build/Build v0.1.data",
+    "Build/Build v0.1.wasm",
     "TemplateData/style.css"
 
 ];
